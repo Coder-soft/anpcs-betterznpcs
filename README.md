@@ -1,9 +1,9 @@
 [spigot-link]: https://www.spigotmc.org/resources/znpcs.80940
 [wiki-link]: https://github.com/gonalez/znpcs/wiki
 
-# ZNPCs
+# ANPCs
 
-ZNPCs is a [minecraft plugin][spigot-link] to create NPCs (non-player entities).
+ANPCs is a [minecraft plugin][spigot-link] to create NPCs (non-player entities).
 
 ### Learn more
 
